@@ -28,7 +28,7 @@ curriculum/
 │  │  │  ├─ {challenge}.md
 ```
 
-## Getting File Tree
+## Getting a File Tree
 The command ```tree /f /a``` produces a tree of the current folder and all files & folders contained within it in ASCII format.
 The output can be redirected to a text file using the > parameter.
 
